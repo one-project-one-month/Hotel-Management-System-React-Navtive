@@ -106,6 +106,7 @@ const Payment = () => {
         </ScrollView>
     )
 }
+//test
 
 const styles = StyleSheet.create({
     container:{
